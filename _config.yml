@@ -1,0 +1,14 @@
+layout_spectrum: 0.8119449
+typography_spectrum: 0.9546565
+color:
+  saturation: 0.02940346
+  lightness: 0.4765806
+  brandStrength: 0.9072745
+  rhythmicContrast: 0.1125114
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Digital Nomad 2
